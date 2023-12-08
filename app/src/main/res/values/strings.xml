@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CGW</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="menu_title">Bouncy Ball</string>
+    <string name="menu_start_button">Start</string>
+    <string name="ball_accel_text">Ball acceleration: %1$.2f; %2$.2f</string>
+</resources>
